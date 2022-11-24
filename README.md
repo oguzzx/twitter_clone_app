@@ -1,5 +1,5 @@
 Reactjs ile yaptığım twitter clone uygulaması
-deploy hali : https://peppy-brigadeiros-72b77c.netlify.app/
+deploy hali : https://peppy-brigadeiros-72b77c.netlify.app/ 
 
 react twitter widgets eklentisini kullanarak twitter de atmış olduğum tweetleri ekranın sağ tarafında listelettirdim
 
